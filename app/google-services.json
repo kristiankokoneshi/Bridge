@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337214051050",
+    "project_id": "bridge-72d98",
+    "storage_bucket": "bridge-72d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337214051050:android:cf6e2b501ea5d542b5fd93",
+        "android_client_info": {
+          "package_name": "com.example.oresund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337214051050-bnrhmran1hfnabnn3oig8lbncdlgkcnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdwvq-qpLvp8kos0noZ4w77UovC754CY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337214051050-bnrhmran1hfnabnn3oig8lbncdlgkcnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
